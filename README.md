@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Bienvenue chez INTC Madagascar</h1>
-  <p><b>Agence de Développement Web, Intelligence Artificielle & Solutions Innovantes</b></p>
+  <p><b>Agence de Développement Web, Progiciel & Solutions Innovantes</b></p>
 </div>
 
 ---
@@ -11,7 +11,7 @@ Nous sommes **INTC Madagascar**, une équipe passionnée spécialisée dans la c
 
 - 🌍 Basé à : Madagascar
 - 💻 Nos domaines d'expertise : E-commerce, SaaS, IA, DevOps
-- 📧 Nous contacter : [Votre Email/Lien]
+- 📧 Nous contacter : accounts@intc.mg
 
 ---
 
